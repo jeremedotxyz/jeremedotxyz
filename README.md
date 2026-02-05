@@ -1,4 +1,4 @@
-## 🧰 Tech Stack
+## currenlty building with
 
 ![Skills](https://skillicons.dev/icons?i=swift,rust,python,js,ts,html,css,react,nodejs,nextjs,docker,aws,git,github,linux)
 <!--
