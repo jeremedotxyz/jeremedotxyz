@@ -3,14 +3,14 @@ quiet builders change everything.
 
 ![Skills](https://skillicons.dev/icons?i=swift,rust,python,js,ts,html,css,react,nextjs,nodejs,docker,aws,linux,git,github,postgres,redis,firebase,raspberrypi,arduino,tensorflow,pytorch,sklearn,huggingface,opencv)
 
-## specialties
+specialties
 
-- robotics  
-- lidar  
-- hardware engineering  
-- software engineering  
-- industrial design  
-- mobile network architecture
+• robots & friends  
+• lasers that see things  
+• hardware design  
+• software engineering  
+• industrial design  
+• mobile network architecture
 
 ## vibes
 
