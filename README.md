@@ -1,7 +1,6 @@
-## Hi there 👋
 ## 🧰 Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=swift,python,js,ts,html,css,react,nodejs,docker,aws,git,github,linux)
+![Skills](https://skillicons.dev/icons?i=swift,rust,python,js,ts,html,css,react,nodejs,nextjs,docker,aws,git,github,linux)
 <!--
 **jeremedotxyz/jeremedotxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
