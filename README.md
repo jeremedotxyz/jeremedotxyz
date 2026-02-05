@@ -17,7 +17,7 @@
 - espresso-fueled engineer  
 - punk-adjacent engineering  
 - lyric-driven development
-- peculative enthusiasm  
+- speculative enthusiasm  
 - seed-stage curiosity
 <!--
 **jeremedotxyz/jeremedotxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
