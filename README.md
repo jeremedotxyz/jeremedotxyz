@@ -2,20 +2,23 @@
 
 ![Skills](https://skillicons.dev/icons?i=swift,rust,python,js,ts,html,css,react,nodejs,nextjs,docker,aws,git,github,linux)
 
-## 🧠 specialties
+## specialties
 
 - robotics  
 - lidar  
 - hardware engineering  
 - software engineering  
 - industrial design  
-- mobile network architecture  
+- mobile network architecture
+- seed-stage curiosity
 
 ## vibes
 
 - espresso-fueled engineer  
 - punk-adjacent engineering  
 - lyric-driven development
+- peculative enthusiasm  
+- seed-stage curiosity
 <!--
 **jeremedotxyz/jeremedotxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
