@@ -10,7 +10,6 @@
 - software engineering  
 - industrial design  
 - mobile network architecture
-- seed-stage curiosity
 
 ## vibes
 
