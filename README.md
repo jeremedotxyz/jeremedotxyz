@@ -1,7 +1,11 @@
 quiet builders change everything.
 
 
-![Skills](https://skillicons.dev/icons?i=swift,rust,python,js,ts,html,css,react,nextjs,nodejs,fastapi,docker,kubernetes,terraform,nginx,aws,linux,git,github,postgres,redis,firebase,elasticsearch,tensorflow,pytorch,sklearn,huggingface,opencv,onnx,tailwind,figma,raspberrypi,arduino)
+![Skills](https://skillicons.dev/icons?i=swift,rust,python,js,ts,html,css,react,nextjs,nodejs,fastapi)
+
+![Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,nginx,aws,linux,git,github,postgres,redis,firebase,elasticsearch)
+
+![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,huggingface,opencv,onnx,tailwind,figma,raspberrypi,arduino)
 
 ## specialties
 
