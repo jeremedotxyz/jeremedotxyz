@@ -3,7 +3,7 @@ quiet builders change everything.
 
 ![Skills](https://skillicons.dev/icons?i=swift,rust,python,js,ts,html,css,react,nextjs,nodejs,fastapi,docker,kubernetes,terraform,nginx,aws,linux,git,github,postgres,redis,firebase,elasticsearch,tensorflow,pytorch,sklearn,huggingface,opencv,onnx,langchain,tailwind,figma,raspberrypi,arduino)
 
-specialties
+## specialties
 
 • robots & friends  
 • lasers that see things  
