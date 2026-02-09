@@ -18,11 +18,16 @@ quiet builders change everything.
 
 ## vibes
 
-- espresso-fueled engineer  
-- punk-adjacent engineering  
+- espresso-fueled engineer
+- punk-adjacent engineering
 - lyric-driven development
-- speculative enthusiasm  
+- speculative enthusiasm
 - seed-stage curiosity
+
+—
+
+low drama. high signal.  
+built quietly. shipped intentionally.
 <!--
 **jeremedotxyz/jeremedotxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
