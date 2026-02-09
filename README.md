@@ -5,7 +5,7 @@ quiet builders change everything.
 
 ![Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,nginx,aws,linux,git,github,postgres,redis,firebase,elasticsearch)
 
-![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,huggingface,opencv,onnx,tailwind,figma,raspberrypi,arduino)
+![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,googlecloud,tailwind,figma,raspberrypi,arduino)
 
 ## specialties
 
