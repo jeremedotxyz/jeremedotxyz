@@ -24,21 +24,15 @@ quiet builders change everything.
 - speculative enthusiasm
 - seed-stage curiosity
 
+## right now
+
+- 🔭 working on public transit lidar with ai and autonomous agents
+- 👯 looking to collaborate on public data infrastructure and transportation
+- 💬 ask me about the best seared tuna recipe
+- 📫 jeremedotxyz@gmail.com
+- ⚡ fun fact: i'm an insane music snob
+
 —
 
 low drama. high signal.  
 built quietly. shipped intentionally.
-<!--
-**jeremedotxyz/jeremedotxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
