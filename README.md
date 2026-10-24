@@ -18,21 +18,12 @@ quiet builders change everything.
 
 ## vibes
 
-- espresso-fueled engineer
-- punk-adjacent engineering
+- caffeine-fueled
+- punk rock-adjacent engineering
 - lyric-driven development
 - speculative enthusiasm
 - seed-stage curiosity
 
-## right now
-
-- 🔭 working on public transit lidar with ai and autonomous agents
-- 👯 looking to collaborate on public data infrastructure and transportation
-- 💬 ask me about the best seared tuna recipe
-- 📫 jeremedotxyz@gmail.com
-- ⚡ fun fact: i'm an insane music snob
-
-—
 
 low drama. high signal.  
 built quietly. shipped intentionally.
