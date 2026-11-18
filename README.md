@@ -16,7 +16,7 @@ quiet builders change everything.
 • industrial design  
 • mobile network architecture
 
-## vibes
+## things
 
 - caffeine-fueled
 - punk rock-adjacent engineering
@@ -27,3 +27,6 @@ quiet builders change everything.
 
 low drama. high signal.  
 built quietly. shipped intentionally.
+
+<img width="374" height="374" alt="sts-3F4D7DC1-8AA6-430C-9200-CD1FC8ED839F" src="https://github.com/user-attachments/assets/2de5c9dc-6e23-4bd6-9d7c-9d85f5948190" />
+
